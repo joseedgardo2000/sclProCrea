@@ -1,6 +1,6 @@
 # sclProCrea
 
-## English
+### English
 
 Is a batch file to create the directory structure for Scala Sbt Projects based on different line command parameters.
 
