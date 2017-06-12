@@ -5,7 +5,7 @@ sclProCrea
 
 Is a batch file to create the directory structure for Scala Sbt Projects based on different line command parameters.
 
-USAGE: 
+Usage: 
 
     sclProCrea [options]
 
@@ -40,11 +40,13 @@ Example:
     Avoid creating:
         build.sbt
 		
-## Español
+### Español
 
 Es un archivo batch para crear la estructura de directorio para Proyectos Sbt de Scala
 
-USO: sclProCrea [opciones]
+USO:
+
+    sclProCrea [opciones]
 
 Opciones:
 
