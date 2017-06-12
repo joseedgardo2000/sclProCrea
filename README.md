@@ -6,6 +6,7 @@ Is a batch file to create the directory structure for Scala Sbt Projects based o
 USAGE: sclProCrea [options]
 
 Options:
+
     * -e  FLAG   Use of English as message language   : 1 = yes / 0 = no  (Default: 1)
                (NOTE: Should be the first option if used - 0 means use of Spanish)
     * -m  FLAG   Create directory [src\main\scala]    : 1 = yes / 0 = no  (Default: 1)
