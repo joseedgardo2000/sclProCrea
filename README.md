@@ -22,6 +22,7 @@ Is a batch file to create the directory structure for Scala Sbt Projects based o
    * ` -tr FLAG`   Create directory [src\test\resources]: 1 = yes / 0 = no  (Default: 0)
    * ` -tj FLAG`   Create directory [src\test\java]     : 1 = yes / 0 = no  (Default: 0)
    * ` -b  FLAG`   Create file      [build.sbt]         : 1 = yes / 0 = no  (Default: 1)
+   
                Content:
 
                                   name:="nombrePoyecto"
@@ -63,6 +64,7 @@ Es un archivo batch para crear la estructura de directorio para Proyectos Sbt de
    * `-tr BANDERA`   Crea directorio [src\test\resources]: 1 = si / 0 = no  (Default: 0)
    * `-tj BANDERA`   Crea directorio [src\test\java]     : 1 = si / 0 = no  (Default: 0)
    * `-b  BANDERA`   Crea archivo    [build.sbt]         : 1 = si / 0 = no  (Default: 1)
+   
                   Contenido:
 
                                   name:="nombrePoyecto"
